@@ -42,6 +42,9 @@ header {
         display: inline-block;
     }
 
+{
+    display:list-item;
+}
 
 
 
