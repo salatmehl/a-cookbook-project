@@ -48,12 +48,10 @@ header {
 
 
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
+element.style {
+        width: 100%
+        object-fit: contain;
+      }
 
 
 
