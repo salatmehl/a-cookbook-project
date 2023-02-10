@@ -61,6 +61,11 @@ header {
         list-style-position: inside;
     }
 
+ ul {
+        text-align: center;
+        list-style-position: inside;
+    }
+
  h3 {
         text-align: center;
     }
