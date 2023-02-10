@@ -46,11 +46,14 @@ header {
     display:list-item;
 }
 
-element.style {
-        width: 100%
-        object-fit: contain;
-      }
 
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 
