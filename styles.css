@@ -51,5 +51,10 @@ header {
         object-fit: contain;
       }
 
+.recipe-image {
+        width: 100%;
+        object-fit: contain;
+      }
+
 
 
