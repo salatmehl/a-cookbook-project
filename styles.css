@@ -56,5 +56,9 @@ header {
         object-fit: contain;
       }
 
+ ol {
+        text-align: center;
+        list-style-position: inside;
+    }
 
 
