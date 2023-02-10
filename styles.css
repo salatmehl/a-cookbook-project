@@ -46,9 +46,7 @@ header {
     display:list-item;
 }
 
-
-
-element.style {
+ .homepage-image {
         width: 100%
         object-fit: contain;
       }
