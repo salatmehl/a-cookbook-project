@@ -46,6 +46,10 @@ header {
     display:list-item;
 }
 
+element.style {
+        width: 100%
+        object-fit: contain;
+      }
 
 
 
