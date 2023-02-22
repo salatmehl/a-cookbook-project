@@ -1,2 +1,2 @@
 # cookbook-project
-HTML – Basic Website Layout - 101 Computing
+a webpage to practice HTML – Basic Website Layout - 101 Computing
